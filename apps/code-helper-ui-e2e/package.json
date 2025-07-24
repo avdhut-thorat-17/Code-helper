@@ -1,0 +1,10 @@
+{
+  "name": "@code-helper/code-helper-ui-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@code-helper/code-helper-ui"
+    ]
+  }
+}
