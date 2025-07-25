@@ -8,6 +8,9 @@
     },
     {
       "path": "./apps/code-helper-ui"
+    },
+    {
+      "path": "./libs/code-helper-core"
     }
   ]
 }
